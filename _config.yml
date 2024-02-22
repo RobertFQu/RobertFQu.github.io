@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "QU Shutong"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : # example: ""  
+  bio              : "A first year PhD Student for Computer Science"
   location         : "Shenzhen, Guangdong, China"
   employer         : "CUHK(Shenzhen)"
   uri              : # URL
