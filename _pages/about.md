@@ -11,4 +11,4 @@ I'm QU Shutong, a first year PhD student from [School of Science and Engineering
 
 I'm advised by [Prof. CAI Wei](https://mypage.cuhk.edu.cn/academics/caiwei/) from [Human-Crypto Society Lab](https://hcslab.cuhk.edu.cn/).
 
-I got my B.Eng. Degree in the [Institute for Interdisplinary Information Science [IIIS](https://iiis.tsinghua.edu.cn/), Tsinghua University in July 2019.
+I got my B.Eng. Degree in the Institute for Interdisplinary Information Science [IIIS](https://iiis.tsinghua.edu.cn/), Tsinghua University in July 2019.
