@@ -1,7 +1,7 @@
 ---
 title: "Crowdsourcing Work as Mining: A Decentralized Computation and Storage Paradigm"
 collection: publications
-permalink: /publication/Crowdsourcing Work as Mining: A Decentralized Computation and Storage Paradigm
+permalink: /publication/Crowdsourcing
 excerpt: 'No Comments'
 date: 06-29-2023
 venue: 'Proceedings of the 7th Asia-Pacific Workshop on Networking'
