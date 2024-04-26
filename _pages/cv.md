@@ -22,3 +22,4 @@ Skills
 
 Publications
 ======
+* Canhui Chen, Zerui Cheng, Shutong Qu, Zhixuan Fang, "Crowdsourcing Work as Mining: A Decentralized Computation and Storage Paradigm", in Proceedings of the 7th Asia-Pacific Workshop on Networking, https://arxiv.org/pdf/2211.06669
