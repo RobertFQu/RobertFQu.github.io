@@ -1,8 +1,5 @@
 # main links links
-main:
-  - title: "Publications"
-    url: https://robertfqu.github.io/publications/
-    
+main:    
   - title: "Resume"
     url: https://robertfqu.github.io/cv/
     
