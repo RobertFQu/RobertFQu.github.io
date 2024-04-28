@@ -18,7 +18,8 @@ Skills
 ======
 * Cryptography
 * Game Theory
-* A little bit of Coding
+* Probability Theory, Statistical Inference & Stochastic Process
+* Coding(C++, Golang and a little Python)
 
 Publications
 ======
