@@ -11,4 +11,4 @@ I'm QU Shutong, an M.Phil. student from [School of Science and Engineering, CUHK
  
 I'm advised by [Prof. CAI Wei](https://faculty.uw.edu/weicaics) from [Decentralized Computing Laboratory](https://sites.uw.edu/weicaics).
 
-I got my B.Eng. Degree in the Institute for Interdisplinary Information Science [IIIS](https://iiis.tsinghua.edu.cn/), Tsinghua University in July 2019.
+I got my B.Eng. Degree in the Institute for Interdisplinary Information Science [IIIS, Tsinghua University](https://iiis.tsinghua.edu.cn/) in July 2019.
