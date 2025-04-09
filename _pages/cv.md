@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer and Information Engineering, Chinese University of Hong Kong(Shenzhen), 2028 (expected)
-* B.Eng. in the Institute for Interdisplinary Information Science, Tsinghua University, 2023
+* M.Phil. for Computer and Information Engineering, Chinese University of Hong Kong(Shenzhen), 2025 (Upcoming)
+* B.Eng. for Computer Science and Technology in the Institute for Interdisplinary Information Science, Tsinghua University, 2023
   
 Skills
 ======
